@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5567b034e89124f1d9c4b2b20c18fbb7, type: 3}
+  m_Name: AudioClipRefSO
+  m_EditorClassIdentifier: Assembly-CSharp::AudioClipRefsSO
+  jump: {fileID: 8300000, guid: f52616f3be2e1324382bd0f2bc65f340, type: 3}
+  shoot: {fileID: 8300000, guid: bb91c0a2e0655b9458374194e7985430, type: 3}
+  playerHurt: {fileID: 8300000, guid: 717f629557c500e4b9ba2fce9e34f283, type: 3}
+  stampede: {fileID: 8300000, guid: 9d2456fff877bbc43a8b0f0de1528b91, type: 3}
+  upgrade:
+  - {fileID: 8300000, guid: 467709bf3ded4cb45ac173fdd0e3d7af, type: 3}
+  - {fileID: 8300000, guid: 4836dc59ed6ae824ea8e893c325e9f11, type: 3}
+  explosion:
+  - {fileID: 8300000, guid: cd1a3e0f3f7bf497088185a8016c7bc9, type: 3}
+  - {fileID: 8300000, guid: f84830a129b9446569f7be8c5c9720a8, type: 3}
+  gameLose: {fileID: 8300000, guid: 4434db9f00e67cb4aa61dfb33092e031, type: 3}
+  gameWin: {fileID: 8300000, guid: 874df5435219548099e6bd3ccfdf71ff, type: 3}
